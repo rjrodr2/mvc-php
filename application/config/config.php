@@ -17,7 +17,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | environments.
 |
 */
-$config['base_url'] = '/mvc-php-crud/';
+$config['base_url'] = 'http://localhost/codeigniter/index.php/';
 
 /*
 |--------------------------------------------------------------------------

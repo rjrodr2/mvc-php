@@ -19,8 +19,8 @@ if($this->uri->segment(1) == 'projects') {
 <head>
     <meta charset="UTF-8">
     <title>Document</title>
-    <link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="<?php echo base_url();?>assets/css/custom.css">
+    <link rel="stylesheet" href="http://localhost/codeigniter/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://localhost/codeigniter/assets/css/custom.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script src="<?php echo base_url();?>assets/js/bootstrap.min.js"></script>
     <script src="<?php echo base_url();?>assets/js-webshim/minified/polyfiller.js"></script>
